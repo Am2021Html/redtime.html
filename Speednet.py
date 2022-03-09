@@ -1,3 +1,5 @@
+#pip install speedtest
+
 import speedtest
 
 wifi = speedtest.Speedtest()
